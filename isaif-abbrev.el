@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2021  Valeriy Litkovskyy
 
-;; Author: Valeriy Litkovskyy <valeriy.litkovskyy@mail.polimi.it>
+;; Author: Valeriy Litkovskyy
 ;; Keywords: games
 
 ;; This program is free software; you can redistribute it and/or modify
