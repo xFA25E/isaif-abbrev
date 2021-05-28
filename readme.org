@@ -1,0 +1,5 @@
+#+TITLE: ISAIF-abbrev
+
+Read your favorite essay at any time!
+
+Just ~lmao M-x expand-abbrev RET~.
