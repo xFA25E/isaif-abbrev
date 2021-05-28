@@ -5,7 +5,7 @@ Read your favorite essay at any time!
 Just ~lmao M-x expand-abbrev RET~.
 
 Note, it does not work with ~abbrev-mode~ enabled,
-because it cannot process such long regexp.
+because it cannot process such long regexps.
 
 It is not a bug, it is a feature.
 You should quit using Emacs and go into the woods.
